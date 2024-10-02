@@ -51,7 +51,7 @@ To build and run the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/jaydxyz/smart-pointer-library.git
+   git clone https://github.com/jayinmt/smart-pointer-library.git
    ```
 
 2. Navigate to the project directory:
